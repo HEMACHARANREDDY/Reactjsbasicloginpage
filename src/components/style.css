@@ -1,0 +1,11 @@
+.tableform{
+    border: 1px solid red;
+
+}
+td{
+    padding: 5px;
+    border-radius: 10px;
+}
+button{
+    color: white;
+}
